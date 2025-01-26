@@ -1,0 +1,213 @@
+division = {
+    id = {
+        id = 21336 type = 4713
+    }
+    last_combat_date = "1.1.1.1"
+        location = 12140
+        logical_country = "USA"
+        officers = {
+        seed = 1453000425
+            male = yes
+            portraits = {}
+    }
+    id = {
+        id = 21336 type = 4713
+    }
+    motorization_level = 0
+        division_template_id = {
+        id = 185 type = 52
+    }
+    division_name = {
+        type = 0
+            name_order = 4
+    }
+    max_supply = 144.000
+        organisation = 140.422
+        strength = 108.397
+        equipment = {
+        equipment = {
+            id = {
+                id = 1846 type = 70
+            }
+            amount = 850.000
+        }
+        equipment = {
+            id = {
+                id = 3621 type = 70
+            }
+            amount = 99.000
+        }
+        equipment = {
+            id = {
+                id = 1847 type = 70
+            }
+            amount = 40.000
+        }
+    }
+    unit_medals = {}
+    script_id = -1
+        army_manpower = {
+        army_manpower_value = {
+            value = {
+                tag = "USA" value = 6800
+            }
+        }
+        army_manpower_need = {
+            value = {
+                tag = "USA" value = 6800
+            }
+        }
+    }
+    experience = 1112.981
+        requests = {
+        upgrades = {
+            request = {
+                request = 740.000
+                    total = 950.000
+                    equipment_variant_index = {
+                    id = 1846 type = 70
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 3.900
+                    total_progress = 15.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+            delivery = {
+                status = 1
+                    progress = 0.000
+                    produced = {
+                    equipment = {
+                        id = {
+                            id = 3621 type = 70
+                        }
+                        amount = 10.000
+                    }
+                }
+            }
+        }
+        date = "1940.5.28.1"
+    }
+    dig_in_cap = 10.000
+        str_damage = 15.603
+        org_damage = 22.745
+        army_current_supply_ratio = 57.054
+        supply_gain = 0.000
+        gain_xp_leader = 9.799
+}
