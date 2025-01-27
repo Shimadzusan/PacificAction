@@ -1,0 +1,69 @@
+division={
+				id={ id=1 type=51 }
+				last_combat_date="1.1.1.1"
+				location=11333
+				logical_country="ENG"
+				officers={
+					seed=1171081435
+					male=yes
+					portraits={
+					}
+				}
+				id={ id=1 type=51 }
+				motorization_level=0
+				division_template_id={ id=10 type=52 }
+				division_name={
+					type=0
+					override="Royal Tank Regiment 'Fear Naught'"
+				}
+				max_supply=84.000
+				organisation=28.966
+				strength=92.200
+				equipment={
+					equipment={
+						id={ id=542 type=70 }
+						amount=260.000
+					}
+					equipment={
+						id={ id=3194 type=70 }
+						amount=140.000
+					}
+					equipment={
+						id={ id=558 type=70 }
+						amount=460.000
+					}
+					equipment={
+						id={ id=559 type=70 }
+						amount=240.000
+					}
+					equipment={
+						id={ id=539 type=70 }
+						amount=24.000
+					}
+					equipment={
+						id={ id=548 type=70 }
+						amount=78.000
+					}
+					equipment={
+						id={ id=556 type=70 }
+						amount=36.000
+					}
+				}
+				unit_medals={
+				}
+				script_id=-1
+				army_manpower={
+					army_manpower_value={
+						value={ tag="ENG" value=8100 }
+					}
+					army_manpower_need={
+						value={ tag="ENG" value=8100 }
+					}
+				}
+				experience=6480.000
+				fuel=1699.200
+				dig_in=10.000
+				dig_in_cap=10.000
+				army_current_supply_ratio=84.000
+				supply_gain=0.150
+			}

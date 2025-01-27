@@ -9,12 +9,12 @@ public class Launch {
     static int runLogicCounter = 0;
     static DataOperation dataOperation = new DataOperation();
     static String fileName = "autosave.hoi4";
-    static Path filePath = Paths.get("C:\\Users\\user\\Documents\\Paradox Interactive\\Hearts of Iron IV\\save games\\" + fileName); // Change this to your file's path
-
+//    static Path filePath = Paths.get("C:\\Users\\user\\Documents\\Paradox Interactive\\Hearts of Iron IV\\save games\\" + fileName); // Change this to your file's path
+static Path filePath = Paths.get("D:\\projectAlpha\\" + fileName);
     public static void main(String[] args) throws InterruptedException, IOException {
         String lastEditDate = dataOperation.getFileAttributs(filePath.toString());
         while(true) {
-            Thread.sleep(120000);//120000
+            Thread.sleep(5000);//120000
             String currentEditDate = dataOperation.getFileAttributs(filePath.toString());
             System.out.println("run..");
 
