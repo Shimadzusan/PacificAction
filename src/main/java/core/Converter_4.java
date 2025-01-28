@@ -56,7 +56,8 @@ public class Converter_4 {
             String element = "";
             String totalResult = "";
 
-            for (int i = 0; i < 300000; i++) {
+            for (int i = 0; i < 300; i++) {
+                if(curlyBrace == 0) System.out.println("curlyBrace = 0");
 
                 if(!arrayData[i].contains("{") && !arrayData[i].contains("}") && curlyBrace == 0) {
                     if(element.length() > 0)System.out.println(element);
@@ -93,6 +94,7 @@ public class Converter_4 {
                     element = element + arrayData[i] + ";";
                     continue;
                 }
+
 //                System.out.println("cb: " + curlyBrace);
             }
 
